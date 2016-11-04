@@ -1,0 +1,75 @@
+header{
+	background-color: #0E83FB;
+}
+
+h1{
+    font-family: 'Anton', sans-serif;
+	color: #FFF;
+	
+}
+
+#inputTarea{
+	width: 100%;
+	margin-bottom: 2%;
+	margin-top: 2%;
+	
+}
+
+textarea{
+    overflow: scroll;
+    overflow-x: hidden; 
+}
+.fa {
+    font-size: 25px;
+    color: #7E7575;
+    padding-left: 10px;
+   
+}
+
+.fa:hover{
+    color: #0E83FB;
+    cursor: pointer;
+}
+#buttom{
+	background-color: #0E83FB;
+	color: #FFF;
+    margin-left:60%;
+}
+
+.fa-trash{
+	font-size: 20px;
+    float: right;
+    cursor: pointer;
+
+}
+
+.fa-heart{
+    font-size: 20px;
+    float: right;
+    cursor: pointer;
+}
+
+.fa-heart:hover{
+    color: red;
+}
+
+.box{
+	background-color:#9EF5CF;
+	width: 100%;
+    margin-bottom: 2%;
+    padding:2% 1%;
+    
+}
+
+.raya{
+    text-decoration: line-through;
+}
+
+.rojo{
+    color:red;
+}
+
+
+
+
+
